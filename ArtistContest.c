@@ -49,11 +49,6 @@ int main(){
 
     
 
-
-
-
-
-
     // for (int i = 0; i < NumberOfContestants; i++)
     // {
     //     printf("%d\n",contestants[i].code);
